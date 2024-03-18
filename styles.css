@@ -257,7 +257,8 @@ body {
 footer {
   background-color: #1a1a1a;
   color: #ffffff;
-  padding: 20px 0;
+  padding: 20px;
+  width: 100%;
   text-align: center;
 }
 
